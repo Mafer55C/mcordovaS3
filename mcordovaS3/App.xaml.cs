@@ -9,7 +9,7 @@ namespace mcordovaS3
         public App()
         {
             InitializeComponent();
-
+            //NAVEGACION CAMBIO
             MainPage = new NavigationPage(new Page1());
         }
 
